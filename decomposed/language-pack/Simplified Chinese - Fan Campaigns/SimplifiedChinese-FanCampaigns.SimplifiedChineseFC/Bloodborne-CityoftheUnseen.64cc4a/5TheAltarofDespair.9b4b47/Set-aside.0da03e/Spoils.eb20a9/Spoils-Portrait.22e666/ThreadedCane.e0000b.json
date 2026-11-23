@@ -7,7 +7,8 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12332074655348431511/BAEC34D1E563B68D7424CC841FAA54C9C93F5114/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0
+      "Type": 0,
+      "UniqueBack": true
     }
   },
   "Description": "For the Gentleman Hunter",

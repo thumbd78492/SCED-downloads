@@ -7,7 +7,8 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11678220498217574638/F0CD37F46E2BF0D55107B8D4CA7A14A97C6CAA6F/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0
+      "Type": 0,
+      "UniqueBack": true
     }
   },
   "Description": "With Steady Stride",

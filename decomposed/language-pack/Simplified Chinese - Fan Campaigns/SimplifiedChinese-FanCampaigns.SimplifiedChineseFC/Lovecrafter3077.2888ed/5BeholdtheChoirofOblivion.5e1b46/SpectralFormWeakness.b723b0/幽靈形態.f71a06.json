@@ -7,7 +7,8 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12252592319015413319/85CBB87ED838CFFE528FF58DA3E638ABFFB7ED41/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0
+      "Type": 0,
+      "UniqueBack": true
     }
   },
   "GMNotes": "{\"id\":\"6ca45687-aca8-437d-ae9d-f1b0ba437b29\"}",
